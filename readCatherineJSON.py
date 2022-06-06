@@ -7,6 +7,7 @@ for i in data['catherine']:
 print("---------------------------------------------------------------")
 f=open('catherine2.json', "r")
 data=json.loads(f.read())
+print(type(data))
 print(data)
 
 f.close()
