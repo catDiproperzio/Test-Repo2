@@ -1,9 +1,16 @@
 {
-    "catherine": [
-    {"name": "Catherine"},
-    {"graduationYear": 2023},
-    {"schoolName": "Iona College"},
-    {"internshipCompany": "Factset"},
-    {"projectName": "Self-Serve DataHub"}
+    "people": [
+    {
+    "name": "Catherine",
+    "graduationYear": 2023,
+    "schoolName": "Iona College",
+    "internshipCompany": "Factset",
+    "projectName": "Self-Serve DataHub"},
+    {
+        "name": "Maryellen",
+        "graduationYear": 2022,
+        "schoolName": "Marist College",
+        "internshipCompany": "N/A",
+        "projectName": "Art Commissions"}
     ]
 }
